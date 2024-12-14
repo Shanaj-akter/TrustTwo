@@ -1,0 +1,486 @@
+/* // Extra large devices */
+@media (min-width: 1200px) {  }
+
+/* // Large devices  */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .topheaderright a {
+        margin-right: 35px;
+    }
+    .couseitemtext h4 {
+        padding: 0 19px;
+    }
+    .angeltext h3 {
+        padding-top: 0px;
+    }
+    .angeltext::after {
+        top: 43px;
+    }
+    .helptext h3 {
+padding-top: 0;
+    }
+    .helptext::after {
+        top: 43px;
+    }
+    .blogoverlay {
+        height: 216px;
+    }
+}
+
+/* // Medium devices  */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .nav-link {
+        line-height: 45px;
+        text-align: center;
+    }
+    .bennercontent h1 {
+        font-size: 42px;
+    }
+    .bennercontent p {
+        padding: 15px 86px 0px 61px;
+    }
+    .cardtext p {
+        padding-bottom: 28px;
+    }
+    .card {
+        padding-bottom: 18px;
+    }
+    .couseitemtext p {
+        padding: 0 150px;
+    }
+    .couseitemtext h3 {
+        text-align: center;
+    }
+    .couseitemtext h4 {
+        padding: 0 145px;
+    }
+    .couseitemtext .btn p {
+        margin: 20px 275px;
+    }
+    .angeltext {
+        text-align: center;
+    }
+    .angeltext::after {
+        top: 93px;
+        left: 310px;
+    }
+    .helptext {
+        text-align: center;
+    }
+    .helptext::after {
+        top: 93px;
+        left: 310px;
+    }
+    .overlay {
+        padding: 50px 0;
+    }
+    .howone {
+        margin-top: 55px;
+    }
+    .howtwo {
+        margin-top: 55px;
+    }
+    .blogone p {
+        text-align: center;
+    }
+    .blogone h3{
+        text-align: center;
+    }
+    .blogone h5{
+        text-align: center;
+    }
+    .blogoverlay {
+        height: 507px;
+    }
+    #navbar {
+        padding-top: 55px;
+        padding-bottom: 20px;
+    }
+    .navone p {
+        padding: 0 135px;
+    }
+    .navone {
+        text-align: center;
+    }
+    .navtwo {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .navthree {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .navfour {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .navimage {
+        margin-left: 250px;
+    }
+    .nav h3 {
+        margin-left: 220px;
+    }
+}
+
+/* // Small devices */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .topHeaderContant p{
+        margin-bottom: 0rem;
+    }
+    .nav-link {
+        line-height: 45px;
+        text-align: center;
+    }
+    .bennercontent h1 {
+        font-size: 42px;
+    }
+    .bennercontent p {
+        padding: 15px 86px 0px 61px;
+    }
+    .cardtext p {
+        padding-bottom: 0px;
+    }
+    .cardtext p {
+        padding-bottom: 28px;
+    }
+    .card {
+        padding-bottom: 18px;
+    }
+    .couseitemtext p {
+        padding: 0 104px;
+    }
+    .couseitemtext h3 {
+        text-align: center;
+    }
+    .couseitemtext h4 {
+        padding: 0 84px;
+    }
+    .couseitemtext .btn p {
+        margin: 20px 185px;
+    }
+    #AngelPart {
+        padding-bottom: 0px;
+    }
+    .angeltext p {
+        padding-right: 15px;
+    }
+    .angeltext {
+        text-align: center;
+    }
+    .angeltext::after {
+        top: 93px;
+        left: 210px;
+    }
+    .helptext {
+        text-align: center;
+    }
+    .helptext p {
+        padding-left: 16px;
+    }
+    .helptext::after {
+        top: 93px;
+        left: 219px;
+    }
+    .overlay {
+        padding: 50px 0;
+    }
+    .howone {
+        margin-top: 55px;
+    }
+    .howtwo {
+        margin-top: 55px;
+    }
+    .blogone p {
+        text-align: center;
+    }
+    .blogone h3{
+        text-align: center;
+    }
+    .blogone h5{
+        text-align: center;
+    }
+    .blogpartimages {
+        padding-top: 5px;
+    }
+    .blog p {
+        padding-bottom: 20px;
+        font-size: 14px;
+    }
+    .blogoverlay {
+        height: 377px;
+    }
+    #navbar {
+        padding-top: 55px;
+        padding-bottom: 20px;
+    }
+    .navone p {
+        padding: 0 135px;
+    }
+    .navone {
+        text-align: center;
+    }
+    .navtwo {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .navthree {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .navfour {
+        text-align: center;
+        padding-top: 30px;
+    }
+    .navimage {
+        margin-left: 165px;
+    }
+    .nav h3 {
+        margin-left: 180px;
+    }
+ }
+
+/* // Extra small devices */
+@media (max-width: 575.98px) {
+ 
+    .topHeaderContant p{
+        margin-bottom: 0rem;
+    }
+    .nav-link {
+        line-height: 45px;
+        text-align: center;
+    
+    }
+    .bennercontent h3 {
+        margin-right: 510px;
+        font-size: 24px;
+    }
+    #goalpart{
+        overflow: visible;
+    }
+    .bennercontent h1 {
+        font-size: 36px;
+        margin-right: 580px;
+    }
+    .bennercontent p {
+        margin-right: 427px;
+        margin-left: -170px;
+    }
+    .bennercontent a {
+        margin-right: 525px;
+    }
+    .card {
+        width: 48%;
+        padding-top: 20px;
+        padding-bottom: 0;
+
+    }
+    .cousetext {
+        text-align: start;
+    }
+    .cousetext {
+        text-align: start;
+    }
+    .cousetext h3 {
+        font-size: 28px;
+        margin-left: 185px;
+    }
+    .cousetextimages {
+        margin-left: 250px;
+    }
+    .cousetext p {
+        font-size: 14px;
+        margin-left: 40px;
+    }
+    .couseimage img {
+        width: 48%;
+        overflow-x: hidden;
+    }
+    #fullcausePart{
+        overflow: hidden;
+    }
+    .couseitemtext p {
+        padding-right: 712px;
+        padding-left: 32px;
+    }
+    #CousePart {
+        padding-bottom: 25px;
+    }
+    #AngelPart {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+    .angelpicture img {
+        width: 48%;
+    }
+    .angelpicture i {
+        left: 26%;
+    }
+    .angeltext p {
+        padding-right: 700px;
+    }
+    .angeltextbtn p {
+        margin: 20px 0px;
+        background: #F8B864;
+        display: inline-block;
+        padding: 8px 20px 7px;
+        border-radius: 50px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        font-family: "Open Sans", sans-serif;
+        font-weight: 600;
+        font-size: 14px;
+    }
+    .helptext {
+        text-align: left;
+    }
+    .helptext h3 {
+padding-top: 0;
+    }
+    .helptext::after {
+        top: 49px;
+        left: 0;
+    }
+    .helptext p {
+        margin-top: 34px;
+        padding-right: 700px;
+        padding-left: 0px;
+    }
+    .helppicture img {
+        width: 48%;
+    }
+    .helppicture i {
+        left: 26%;
+    }
+    .one h3 {
+        margin-right: 565px;
+    }
+    .one p {
+        margin-left: 248px;
+        text-align: start;
+    }
+    .two h3 {
+        margin-right: 565px;
+    }
+    .two p {
+        margin-left: 248px;
+        text-align: start;
+    }
+    .three h3 {
+        margin-right: 565px;
+    }
+    .three p {
+        margin-left: 248px;
+        text-align: start;
+    }
+    .four h3 {
+        margin-right: 565px;
+    }
+    .four p {
+        margin-left: 248px;
+        text-align: start;
+    }
+    .howpart h3 {
+        margin-right: 550px;
+    }
+    .howpartimages {
+        margin-right: 555px;
+    }
+    .howpart p {
+        margin-right: 631px;
+        margin-left: 73px;
+    }
+    .howimagepart img {
+        width: 48%;
+    }
+    .howone {
+        margin-top: 50px;
+        margin-right: 570px;
+    }
+    .howtwo {
+        margin-top: 50px;
+        margin-right: 570px;
+    }
+    .blog h3 {
+        margin-right: 550px;
+    }
+    .blogpartimages {
+        margin-right: 600px;
+    }
+    .blog p {
+        margin-right: 600px;
+    }
+    .blogoneone img {
+        width: 48%;
+    }
+    .blogoverlay {
+        width: 48%;
+        height: 402px;
+        left: 0;
+    }
+
+    .navone h3 {
+        margin-left: 200px;
+    }
+    .navone p {
+        padding-right: 690px;
+        margin-left: 60px;
+    }
+    .navone i {
+        margin-left: 80px;
+        margin-bottom: 40px;
+    }
+    .navtwo h3 {
+        margin-left: 180px;
+    }
+    .navtwo h4 {
+        margin-left: 236px;
+    }
+    .navtwo h5 {
+        margin-left: 220px;
+    }
+    .navtwo h6 {
+        margin-left: 225px;
+    }
+    .navtwo p {
+        margin-left: 236px;
+    }
+    .navthree h3 {
+        margin-left: 180px;
+    }
+    .navthree h4 {
+        margin-left: 236px;
+    }
+    .navthree h5 {
+        margin-left: 220px;
+    }
+    .navthree h6 {
+        margin-left: 225px;
+    }
+    .navthree p {
+        margin-left: 236px;
+    }
+    .navfour h3 {
+        margin-left: 180px;
+    }
+    .navimage {
+        margin-left: 165px;
+    }
+    .nav h3 {
+        margin-left: 180px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+} 
+
+ 
+
